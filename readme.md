@@ -100,7 +100,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://www.ebay.de/itm/365073553508 - 8x TN-3480 - 95 EUR
     - https://www.ebay.de/itm/365061927883 - 8x TN-3480 - 100 EUR
   - drums: Brother DR-3400 compatible
-    - https://www.ebay.de/itm/365090817024 - 4x DR-3400 - 60 EUR
+    - https://www.ebay.de/itm/365086190360 - 8x DR-3400 - 120 EUR
   - toner and drums: different vendors have different bulk package sizes
 - paper: DIN A4, 70g/m2
   - Kopierpapier A4 BASIC PRO
