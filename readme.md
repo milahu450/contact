@@ -30,6 +30,8 @@ about year 2005 (age 16) my face looked like this
 
 ![](milahu.jpg)
 
+if you see my face in public, feel free to say "hey mila!"
+
 ## phone
 
 +4915172059978
