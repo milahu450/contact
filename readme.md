@@ -2,6 +2,50 @@
 
 how to contact milahu
 
+## private
+
+the best ways to reach me in \*private\* are
+
+- [offline](#offline)
+- [onion](#onion)
+
+## offline
+
+```
+Milan Hauth
+Jägerstr. 10
+83308 Trostberg
+Germany
+```
+
+best method for privacy
+
+before you send anything big or expensive,
+please ask if i am still alive,
+and please ask if i want or need it (i hate surprises)
+
+## face
+
+about year 2005 (age 16) my face looked like this
+
+![](milahu.jpg)
+
+## phone
+
++4915172059978
+
+## onion
+
+best method for online privacy
+
+based on [torproject.org](https://www.torproject.org/)
+
+- mailto:milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
+- xmpp:milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
+- ricochet:milahuuuc3656fettsi3jjepqhhvnuml5hug3k7djtzlfe4dw6trivqd
+- [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
+- [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
+
 ## email
 
 - milahu@gmail.com
@@ -28,9 +72,11 @@ chat over tor
 
 ## git
 
+feel free to create new issues on my git repos
+
 - [github.com/milahu](https://github.com/milahu)
-- [it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu) - darktea
-- [gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu) - righttoprivacy
+- [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
+- [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
 
 ## social
 
@@ -52,29 +98,6 @@ chat over tor
 
 - [github.com/milahu/deutschetorrents](https://github.com/milahu/deutschetorrents) - german torrents
 - [erebus.feralhosting.com/milahu/bin/get-subtitles](https://erebus.feralhosting.com/milahu/bin/get-subtitles) - download subtitles
-
-## offline
-
-```
-Milan Hauth
-Jägerstr. 10
-83308 Trostberg
-Germany
-```
-
-before you send anything big or expensive,
-please ask if i am still alive,
-and please ask if i want or need it (i hate surprises)
-
-## face
-
-about year 2005 (age 16) my face looked like this
-
-![](milahu.jpg)
-
-## phone
-
-+4915172059978
 
 ## donate
 
