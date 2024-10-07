@@ -62,6 +62,10 @@ Jägerstr. 10
 Germany
 ```
 
+before you send anything big or expensive,
+please ask if i am still alive,
+and please ask if i want or need it (i hate surprises)
+
 ## face
 
 about year 2005 (age 16) my face looked like this
