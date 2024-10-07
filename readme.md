@@ -112,3 +112,10 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://www.ebay.de/itm/364613940701 - 379EUR / 50K = 0,318 EUR/book
     - https://www.ebay.de/itm/364613970749 - 202E / 25K = 0,339 EUR/book
     - https://www.ebay.de/itm/364613985003 - 82E / 10K = 0,344 EUR/book
+
+## censored
+
+if i am not responding to your messages, then please try all other contact channels
+
+i have enemies who want me silent or jailed or dead, so these people will isolate me = shadowban me,
+but i hope that they do not censor all of my contact channels
