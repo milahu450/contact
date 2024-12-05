@@ -137,6 +137,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://www.ebay.de/itm/364613940701 - 379EUR / 50K = 0,318 EUR/book
     - https://www.ebay.de/itm/364613970749 - 202E / 25K = 0,339 EUR/book
     - https://www.ebay.de/itm/364613985003 - 82E / 10K = 0,344 EUR/book
+- books
+  - https://www.goodreads.com/review/list/158844759?shelf=to-read
 
 ## censored
 
