@@ -11,18 +11,32 @@ the best ways to reach me in \*private\* are
 
 ## offline
 
+best method for privacy
+
+before you send anything big or expensive,
+please ask if i am still alive,
+and please ask if i want or need it (i hate surprises)
+
+### wasserburg gabersee
+
+status: here because [prison 2024-12-09](#prison-2024-12-09)
+
+```
+Milan Hauth
+Gabersee 7
+83512 Wasserburg
+```
+
+### trostberg jägerstr
+
+status: away because [prison 2024-12-09](#prison-2024-12-09)
+
 ```
 Milan Hauth
 Jägerstr. 10
 83308 Trostberg
 Germany
 ```
-
-best method for privacy
-
-before you send anything big or expensive,
-please ask if i am still alive,
-and please ask if i want or need it (i hate surprises)
 
 ## face
 
@@ -34,6 +48,14 @@ if you see my face in public, feel free to say "hey mila!"
 
 ## phone
 
+worst method for my taste.
+im a writer, not a talker.
+i will ignore most calls.
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
+
 +4915172059978
 
 ## onion
@@ -42,13 +64,47 @@ best method for online privacy
 
 based on [torproject.org](https://www.torproject.org/)
 
+- [darktea.onion/milahu5](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu5)
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
+
 - mailto:milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 - xmpp:milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 - ricochet:milahuuuc3656fettsi3jjepqhhvnuml5hug3k7djtzlfe4dw6trivqd
 - [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
+  - [darktea.onion/milahu2](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu2)
+  - [darktea.onion/milahu3](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu3)
+  - [darktea.onion/milahu4](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu4)
 - [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
 
+## session chat
+
+private p2p chat for
+[android](https://github.com/session-foundation/session-android),
+[desktop](https://github.com/session-foundation/session-desktop),
+[ios](https://github.com/session-foundation/session-ios)
+
+status: active since [prison 2024-12-09](#prison-2024-12-09)
+
+- 0528f44eec76d6aa7c801a8f5c36ec5a86aee9682ddaa3c30c188fbb4dfc524b59
+
+<!-- TODO test. old and broken?
+
+## berty chat
+
+offline-first private p2p chat
+
+- [oZBLEhTRK96mP7BHtMtyRhjD5PLbPw1Hrrbg66dEHDCrRexFsj6CPh674DnxKb2XhxQmVwAXrmduZcN1aJ3fkNQ1zCkTYVV](https://berty.tech/id#contact/oZBLEhTRK96mP7BHtMtyRhjD5PLbPw1Hrrbg66dEHDCrRexFsj6CPh674DnxKb2XhxQmVwAXrmduZcN1aJ3fkNQ1zCkTYVV/name=milahu)
+
+-->
+
 ## email
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - milahu@gmail.com
 - milahu@protonmail.com
@@ -58,10 +114,18 @@ based on [torproject.org](https://www.torproject.org/)
 
 aka: Jabber
 
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
+
 - milahu@jabber.de
 - milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 
 ## IRC
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - milahu@irc.libera.chat
 - milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
@@ -70,11 +134,21 @@ aka: Jabber
 
 chat over tor
 
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
+
 - ricochet:milahuuuc3656fettsi3jjepqhhvnuml5hug3k7djtzlfe4dw6trivqd
 
 ## git
 
 feel free to create new issues on my git repos
+
+- [darktea.onion/milahu5](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu5)
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - [github.com/milahu](https://github.com/milahu)
 - [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
@@ -82,12 +156,20 @@ feel free to create new issues on my git repos
 
 ## social
 
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
+
 - [gab.com/milahu](gab.com/milahu) - free speech
 - [hypothes.is/users/milahu](https://hypothes.is/users/milahu) - comments for all websites, free speech
 - [facebook.com/mila.nautikus](https://www.facebook.com/mila.nautikus) - my stupid face : P
 - [facebook.com/findus.kohlhase](https://www.facebook.com/findus.kohlhase) - mostly music
 
 ## music
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - [last.fm/user/emmhu21](https://www.last.fm/user/emmhu21)
   - https://www.last.fm/user/milahu
@@ -97,6 +179,10 @@ feel free to create new issues on my git repos
 - https://www.youtube.com/user/milahu
 
 ## services
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - [github.com/milahu/deutschetorrents](https://github.com/milahu/deutschetorrents) - german torrents
 - [erebus.feralhosting.com/milahu/bin/get-subtitles](https://erebus.feralhosting.com/milahu/bin/get-subtitles) - download subtitles
@@ -109,6 +195,10 @@ most of my donations i will use to print my book:
 you can also help me by printing and distributing my book. this also works after my death : )
 
 you can also donate physical stuff, see [wishlist](#wishlist)
+
+### gone
+
+status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - https://bitback.me/milahu/
   - XMR: 863Ug11jgT1FofQt5gcpYhXDy9HvieSDtAVtQ4a4KwVPA1paoZmcUnKHRtbXvgwCkGTEukRW94eBTLtpnRfKEWDR6rt5S6S
@@ -146,3 +236,16 @@ if i am not responding to your messages, then please try all other contact chann
 
 i have enemies who want me silent or jailed or dead, so these people will isolate me = shadowban me,
 but i hope that they do not censor all of my contact channels
+
+### prison 2024-12-09
+
+> i have enemies who want me silent or jailed or dead
+
+like i said...
+im in prison again since 2024-12-09
+
+see also
+
+- [darktea.onion/milahu/alchi/issues/1](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/alchi/issues/1)
+  - [Heft mit bedrohlichem und wirrem Inhalt an Schule verteilt – Mann vorläufig festgenommen. Traunsteiner Tagblatt 9.12.2024](https://www.traunsteiner-tagblatt.de/region/landkreis-traunstein_artikel,-heft-mit-bedrohlichem-und-wirrem-inhalt-an-schule-verteilt-mann-vorlaeufig-festgenommen-_arid,912818.html) ([archive.org](https://web.archive.org/web/20241213203917/https://www.traunsteiner-tagblatt.de/region/landkreis-traunstein_artikel,-heft-mit-bedrohlichem-und-wirrem-inhalt-an-schule-verteilt-mann-vorlaeufig-festgenommen-_arid,912818.html))
+  - [Unbekannter marschierte in Gymnasium und verteilte Zettel mit bedrohlichem Inhalt. chiemgau24 9.12.2024](https://www.chiemgau24.de/chiemgau/traunstein/traunstein-ort29586/traunstein-unklare-bedrohungslage-an-annette-kolb-gymnasium-grosseinsatz-der-polizei-93457836.html) ([archive.org](https://web.archive.org/web/20241212150415/https://www.chiemgau24.de/chiemgau/traunstein/traunstein-ort29586/traunstein-unklare-bedrohungslage-an-annette-kolb-gymnasium-grosseinsatz-der-polizei-93457836.html))
