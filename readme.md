@@ -21,8 +21,16 @@ and please ask if i want or need it (i hate surprises)
 
 status: here because [prison 2024-12-09](#prison-2024-12-09)
 
+note:
+the clinic is sabotaging my communication.
+untracked letters disappear again and again.
+if you really want to reach me,
+send a tracked letter
+(german: einschreiben mit rückschein)
+
 ```
 Milan Hauth
+Inn Salzach Klinik
 Gabersee 7
 83512 Wasserburg
 Germany
