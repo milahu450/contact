@@ -61,11 +61,11 @@ worst method for my taste.
 im a writer, not a talker.
 i will ignore most calls.
 
-### gone
+### wasserburg gabersee KS2
 
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
++498071718119
 
-+4915172059978
+
 
 ## onion
 
@@ -74,6 +74,9 @@ best method for online privacy
 based on [torproject.org](https://www.torproject.org/)
 
 - [darktea.onion/milahu5](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu5)
+- [righttoprivacy.onion/milahu5](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu5)
+
+
 
 ### gone
 
@@ -87,6 +90,8 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
   - [darktea.onion/milahu3](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu3)
   - [darktea.onion/milahu4](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu4)
 - [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
+
+
 
 ## session chat
 
