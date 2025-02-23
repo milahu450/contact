@@ -247,6 +247,33 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://www.ebay.de/itm/364613985003 - 82E / 10K = 0,344 EUR/book
 - books
   - https://www.goodreads.com/review/list/158844759?shelf=to-read
+- smartphone
+  - https://geizhals.de/?cat=umtsover&xf=148_Android~157_131072~18414_3.5mm+Klinke~18414_USB-C~19410_8~2607_8192~3287_wechselbar&sort=eintr&hloc=at&hloc=de&v=e&pg=1
+  - battery: removable
+  - waterproof
+  - RAM: 8GB more
+  - internal storage: 128GB or more
+  - OS: android (or linux)
+  - color: black or grey
+  - ports: USB-C, 3.5mm audio jack
+- laptop
+  - brand: Lenovo
+  - CPU: AMD Ryzen 6C/12T
+  - maybe dedicated GPU with large VRAM (12GB?) for AI inference and training
+- desktop PC
+  - CPU: AMD Ryzen 6C/12T or 8C/16T
+  - RAM: 16GB or 32GB
+  - dedicated GPU with large VRAM (12GB?) for AI inference and training
+  - PSU: be quiet
+- NAS server
+  - low power, lower than laptop, lower than desktop
+  - 2x 8TB seagate barracuda compute 5400rpm
+    - quiet
+    - more storage than 1TB at feralhosting.com
+  - bittorrent client rqbit
+  - RAM: 16GB or 32GB
+  - CPU: AMD Ryzen 4C/8T
+  - can saturate my residential fiber FTTH internet connection with 1000 Mbitps
 
 ## censored
 
